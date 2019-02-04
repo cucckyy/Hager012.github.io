@@ -1,0 +1,22 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Hager0123.com" resolutions="1x" timestamp="1549295579919">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="419165797" ref="index"/>
+    <file name="music.css" crc="4111661611" ref="music"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:music"/>
+    <file name="museutils.js" crc="163421577" ref="index:music"/>
+    <file name="whatinput.js" crc="86476730" ref="index:music"/>
+    <file name="museconfig.js" crc="168988563" ref="index:music"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:music"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:music"/>
+    <file name="require.js" crc="244322403" ref="index:music"/>
+  </folder>
+  <folder name="images">
+    <file name="hagar-designstyle-love-heart-m.jpg" crc="4005447909" ref="index:music"/>
+  </folder>
+  <file name="index.html" crc="205397267" seo="true" mt="1549199883284" redirect="true"/>
+  <file name="music.html" crc="4039450100" seo="true" mt="1549199907963" redirect="true"/>
+</manifest>
